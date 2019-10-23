@@ -10,3 +10,12 @@ else:
 #GÖREV:Yukarıda verilen örenğin benzerini üçe bölünebilme ile yapınız:
 #!!!Python programlama dilinde boşluklar programın çalışması için önem arz etmektedir.
 #Yukarıdaki örneği baz alarak görevi yerine getirebilirsiniz.
+
+#Girdi alalım
+a = int(input("1.sayı: "))
+
+# "%" operatörü bir sayısının diğer sayıya bölümünden kalan sonucu verir.
+if a%3==0:
+   print(a,"üçe bölünebiliyordur.")
+else:
+   print(a, "üçe bölünemiyordur.")
