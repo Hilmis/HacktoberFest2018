@@ -20,7 +20,7 @@ public class CodeKal {
 		// özel anlamları var. Çevirirken silmeyiniz.)
 
 		System.out.println("I love CodeKAL!");
-		System.out.println("I am happy for being a part of CodeKAL!");
+		
 
 	}
 
